@@ -17,7 +17,7 @@ Those three files follow the same architecture. They are notebooks implementing 
 
 They all train for 100 epochs and they output every 10 epochs a random molecule of a batch with the activation scores of each nodes. This way, one can observe how the model is learning and where is the attention looking.
 
-The scores of each node are the mean of the 8 attention scores of the heads at the end of the network (layer 10). The choice of this value as the score is a debatable and we wopuld be happy to discuss this choice with you.
+The scores of each node are the mean of the 8 attention scores of the heads at the end of the network (layer 10). The choice of this value as the score is a debatable and we would be happy to discuss this choice with you.
 
 ### baseline
 
