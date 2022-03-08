@@ -1,7 +1,8 @@
 # How to find our work ?
 
+Most of our work on this project is contained in this file ***EA***. However, one important file is in the *train/* folder. This is the file  ***EA_train_molecules_graph_regression.py*** we made containing all the modifications in the training loop.
 
-Most of our work on this project is contained in this file ***EA***. Here are a presentation of every files :
+Here are a presentation of every files :
 
 ### GCN_comparative.ipynb
 
