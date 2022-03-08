@@ -6,7 +6,7 @@ However, one important file is in the *train/* folder. This is the file  ***EA_t
 
 Here are a presentation of every files :
 
-### GCN_comparative.ipynb
+## GCN_comparative.ipynb
 
 Implements a GCN on ZINC and Molecule-NET to compare the performance to the Graph Transformer results of the paper.
 
