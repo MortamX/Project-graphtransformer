@@ -19,7 +19,8 @@ They all train for 100 epochs and they output every 10 epochs a random molecule 
 
 The scores of each node are the mean of the 8 attention scores of the heads at the end of the network (layer 10). 
 
-<img src="scores.png" width="200">
+<img src="scores.png" width="400">
+
 
 The choice of this value as the score is a debatable and we would be happy to discuss this choice with you.
 
